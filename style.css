@@ -24,6 +24,7 @@ header {
 
 legend::selection,
 p::selection,
+h1::selection,
 h2::selection,
 img::selection {
     background-color: blue;
